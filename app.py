@@ -7,7 +7,7 @@ from catboost import Pool
 
 # --- НАСТРОЙКА СТРАНИЦЫ ---
 st.set_page_config(page_title="Прогноз при раке лёгкого", layout="wide")
-st.title("🧬 Прогноз выживаемости при раке лёгкого")
+st.title(" Прогноз выживаемости при раке лёгкого")
 st.markdown("---")
 
 # --- ЗАГРУЗКА МОДЕЛИ ---
